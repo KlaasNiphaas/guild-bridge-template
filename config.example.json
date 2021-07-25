@@ -1,0 +1,10 @@
+{
+    "email": "Minecraft/Mojang Email",
+    "password": "Minecraft/Mojans Password",
+    "serverip": "play.hypixel.net",
+    "token": "Discord Bot Token",
+    "version": "1.8.9",
+    "accounttype": "Account type Can be minecraft or microsoft",
+    "bridgechannel": "Channel for Guild Bridge",
+    "officerchannel": "Channel for Officer Bridge"
+}
